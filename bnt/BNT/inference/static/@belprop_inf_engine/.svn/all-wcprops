@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine
+END
+loopy_converged.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/loopy_converged.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/enter_evidence.m
+END
+find_mpe.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/find_mpe.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/marginal_nodes.m
+END
+belprop_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/belprop_inf_engine.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@belprop_inf_engine/marginal_family.m
+END

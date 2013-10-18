@@ -1,0 +1,122 @@
+10
+
+dir
+4857
+https://svn.csail.mit.edu/EVO-DesignOpt/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs
+https://svn.csail.mit.edu/EVO-DesignOpt
+
+
+
+2012-10-31T13:37:16.512285Z
+4667
+monica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1c8dfed8-759b-4067-ba00-42b74a266df5
+
+@softmax_CPD
+dir
+
+@root_CPD
+dir
+
+@tabular_decision_node
+dir
+
+Old
+dir
+
+@mlp_CPD
+dir
+
+@tabular_CPD
+dir
+
+@tabular_utility_node
+dir
+
+@hhmm2Q_CPD
+dir
+
+@hhmmF_CPD
+dir
+
+@tree_CPD
+dir
+
+mk_isolated_tabular_CPD.m
+file
+
+
+
+
+2012-11-13T22:49:58.703639Z
+16fb494cc4329f7fab52bb18bd1e97e0
+2012-10-31T13:37:16.512285Z
+4667
+monica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+461
+
+@noisyor_CPD
+dir
+
+@discrete_CPD
+dir
+
+@deterministic_CPD
+dir
+
+@tabular_kernel
+dir
+
+CVS
+dir
+
+@gaussian_CPD
+dir
+
+@hhmmQ_CPD
+dir
+
+@generic_CPD
+dir
+
+@boolean_CPD
+dir
+
+@gmux_CPD
+dir
+

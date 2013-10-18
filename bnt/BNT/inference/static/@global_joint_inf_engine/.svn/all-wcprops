@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine/marginal_family.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine/enter_evidence.m
+END
+find_mpe.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine/find_mpe.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine/marginal_nodes.m
+END
+global_joint_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@global_joint_inf_engine/global_joint_inf_engine.m
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/Old/@linear_gaussian_CPD
+END
+log_marg_prob_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/Old/@linear_gaussian_CPD/log_marg_prob_node.m
+END
+linear_gaussian_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/Old/@linear_gaussian_CPD/linear_gaussian_CPD.m
+END
+update_params_complete.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/Old/@linear_gaussian_CPD/update_params_complete.m
+END

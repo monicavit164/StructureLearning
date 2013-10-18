@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/update_engine.m
+END
+fwdback_twoslice.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/fwdback_twoslice.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/marginal_family.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/enter_evidence.m
+END
+find_mpe.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/find_mpe.m
+END
+hmm_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/hmm_inf_engine.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/marginal_nodes.m
+END

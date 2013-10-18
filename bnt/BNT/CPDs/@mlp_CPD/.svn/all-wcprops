@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD
+END
+mlp_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD/mlp_CPD.m
+END
+maximize_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD/maximize_params.m
+END
+convert_to_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD/convert_to_table.m
+END
+reset_ess.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD/reset_ess.m
+END
+update_ess.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@mlp_CPD/update_ess.m
+END

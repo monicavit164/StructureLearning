@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old
+END
+sample_node_single_case.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/sample_node_single_case.m
+END
+update_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/update_params.m
+END
+sample_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/sample_node.m
+END
+prob_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/prob_node.m
+END
+prob_CPT.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/prob_CPT.m
+END
+log_marg_prob_node_case.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/log_marg_prob_node_case.m
+END
+mult_CPD_and_pi_msgs.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/mult_CPD_and_pi_msgs.m
+END
+bayesian_score_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/bayesian_score_CPD.m
+END
+BIC_score_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/BIC_score_CPD.m
+END
+tabular_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/Old/tabular_CPD.m
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine
+END
+bnet_from_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/bnet_from_engine.m
+END
+inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/inf_engine.m
+END
+set_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/set_fields.m
+END
+get_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/get_field.m
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/update_engine.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/@inf_engine/marginal_family.m
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node
+END
+CPD_to_CPT.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node/CPD_to_CPT.m
+END
+set_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node/set_fields.m
+END
+get_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node/get_field.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node/display.m
+END
+tabular_decision_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_decision_node/tabular_decision_node.m
+END

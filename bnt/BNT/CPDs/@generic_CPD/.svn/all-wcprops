@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD
+END
+log_prior.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/log_prior.m
+END
+set_clamped.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/set_clamped.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/README
+END
+generic_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/generic_CPD.m
+END
+adjustable_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/adjustable_CPD.m
+END
+learn_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/learn_params.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@generic_CPD/display.m
+END

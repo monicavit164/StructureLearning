@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot
+END
+pot_to_marginal.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/pot_to_marginal.m
+END
+divide_by_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/divide_by_pot.m
+END
+rescale_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/rescale_pot.m
+END
+normalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/normalize_pot.m
+END
+marginalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/marginalize_pot.m
+END
+multiply_pots.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/multiply_pots.m
+END
+set_domain_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/set_domain_pot.m
+END
+cpot.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/cpot.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/display.m
+END
+cpot_to_mpot.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/cpot_to_mpot.m
+END
+domain_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/domain_pot.m
+END
+enter_cts_evidence_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/enter_cts_evidence_pot.m
+END
+multiply_by_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cpot/multiply_by_pot.m
+END

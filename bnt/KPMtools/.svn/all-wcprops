@@ -1,0 +1,1085 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools
+END
+extend_domain_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/extend_domain_table.m
+END
+rectintSparse.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintSparse.m
+END
+pca_netlab.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/pca_netlab.m
+END
+ind2subvKPM.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ind2subvKPM.c
+END
+sumv.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sumv.m
+END
+sprintf_intvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sprintf_intvec.m
+END
+strmatch_multi.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/strmatch_multi.m
+END
+installC_KPMtools.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/installC_KPMtools.m
+END
+bipartiteMatchingIntProg.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/bipartiteMatchingIntProg.m
+END
+assert.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/assert.m
+END
+chi2inv.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/chi2inv.m
+END
+plot_matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plot_matrix.m
+END
+factorial.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/factorial.m
+END
+ind2subvKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ind2subvKPM.m
+END
+collapse_mog.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/collapse_mog.m
+END
+plotgauss2d_old.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotgauss2d_old.m
+END
+hash_del.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/hash_del.m
+END
+subsets1.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subsets1.m
+END
+axis_pct.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/axis_pct.m
+END
+mysubset.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mysubset.m
+END
+ind2subvMinka.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ind2subvMinka.m
+END
+repmatC.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/repmatC.c
+END
+rotate_xlabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rotate_xlabel.m
+END
+montageKPM3.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/montageKPM3.m
+END
+mysetdiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mysetdiff.m
+END
+partition_matrix_vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/partition_matrix_vec.m
+END
+plotROCkpm.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotROCkpm.m
+END
+hash_add.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/hash_add.m
+END
+myunion.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myunion.m
+END
+normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/normalize.m
+END
+set_xtick_label_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/set_xtick_label_demo.m
+END
+plotColors.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotColors.m
+END
+unaryEncoding.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/unaryEncoding.m
+END
+plotgauss1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotgauss1d.m
+END
+exportfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/exportfig.m
+END
+previewfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/previewfig.m
+END
+nrows.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/nrows.m
+END
+hsvKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/hsvKPM.m
+END
+suptitle.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/suptitle.m
+END
+rectintSparseLoopC.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintSparseLoopC.c
+END
+rnd_partition.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rnd_partition.m
+END
+plotcov2New.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotcov2New.m
+END
+logb.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logb.m
+END
+checkpsd.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/checkpsd.m
+END
+strsplit.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/strsplit.m
+END
+rand_psd.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rand_psd.m
+END
+draw_ellipse_axes.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/draw_ellipse_axes.m
+END
+approx_unique.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/approx_unique.m
+END
+zipload.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/zipload.m
+END
+bipartiteMatchingDemoPlot.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/bipartiteMatchingDemoPlot.m
+END
+colmult.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/colmult.c
+END
+isscalarBNT.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/isscalarBNT.m
+END
+sqdist.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sqdist.m
+END
+xticklabel_rotate90.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/xticklabel_rotate90.m
+END
+subplot2.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subplot2.m
+END
+num2strcell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/num2strcell.m
+END
+find_equiv_posns.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/find_equiv_posns.m
+END
+max_mult.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/max_mult.c
+END
+softeye.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/softeye.m
+END
+argmax.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/argmax.m
+END
+mysize.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mysize.m
+END
+optimalMatchingTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/optimalMatchingTest.m
+END
+nchoose2.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/nchoose2.m
+END
+is_psd.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/is_psd.m
+END
+cell2num.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/cell2num.m
+END
+plotROC.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotROC.m
+END
+mysymsetdiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mysymsetdiff.m
+END
+max_mult.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/max_mult.m
+END
+asort.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/asort.m
+END
+rectintLoopC.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintLoopC.c
+END
+myreshape.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myreshape.m
+END
+myrepmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myrepmat.m
+END
+entropy.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/entropy.m
+END
+sample_discrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sample_discrete.m
+END
+polygon_intersect.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/polygon_intersect.m
+END
+mk_multi_index.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mk_multi_index.m
+END
+asdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/asdemo.m
+END
+plotcov2.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotcov2.m
+END
+pca_kpm.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/pca_kpm.m
+END
+draw_ellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/draw_ellipse.m
+END
+normaliseC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/normaliseC.dll
+END
+loadcell.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/loadcell.m
+END
+setdiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/setdiag.m
+END
+rectintLoopC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintLoopC.dll
+END
+plot_polygon.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plot_polygon.m
+END
+pick.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/pick.m
+END
+strmatch_substr.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/strmatch_substr.m
+END
+initFigures.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/initFigures.m
+END
+normalise.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/normalise.m
+END
+plot_ellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plot_ellipse.m
+END
+subv2indTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subv2indTest.m
+END
+matprint.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/matprint.m
+END
+approxeq.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/approxeq.m
+END
+bipartiteMatchingDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/bipartiteMatchingDemo.m
+END
+subsetsFixedSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subsetsFixedSize.m
+END
+assertBNT.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/assertBNT.m
+END
+logsum.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logsum.m
+END
+myintersect.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myintersect.m
+END
+plotgauss2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotgauss2d.m
+END
+subplot3.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subplot3.m
+END
+ncols.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ncols.m
+END
+polygon_centroid.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/polygon_centroid.m
+END
+asdemo.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/asdemo.html
+END
+choose.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/choose.m
+END
+optimalMatching.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/optimalMatching.m
+END
+mult_by_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mult_by_table.m
+END
+normaliseC.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/normaliseC.c
+END
+logsumexp.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logsumexp.m
+END
+myplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myplot.m
+END
+dirKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/dirKPM.m
+END
+cell2matPad.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/cell2matPad.m
+END
+nonmaxsup.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/nonmaxsup.m
+END
+subsets.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subsets.m
+END
+mk_stochastic.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mk_stochastic.m
+END
+ind2subvTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ind2subvTest.m
+END
+marg_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/marg_table.m
+END
+is_stochastic.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/is_stochastic.m
+END
+plotcov3.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotcov3.m
+END
+repmatC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/repmatC.dll
+END
+conf2mahal.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/conf2mahal.m
+END
+isequalKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/isequalKPM.m
+END
+hungarian.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/hungarian.m
+END
+image_rgb.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/image_rgb.m
+END
+filepartsLast.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/filepartsLast.m
+END
+logdet.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logdet.m
+END
+div.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/div.m
+END
+splitLongSeqIntoManyShort.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/splitLongSeqIntoManyShort.m
+END
+imresizeAspect.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/imresizeAspect.m
+END
+process_options.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/process_options.m
+END
+sort_evec.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sort_evec.m
+END
+rectintSparseC.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintSparseC.m
+END
+block.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/block.m
+END
+subv2ind.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subv2ind.m
+END
+set_xtick_label.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/set_xtick_label.m
+END
+genpathKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/genpathKPM.m
+END
+rectintSparseLoopC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintSparseLoopC.dll
+END
+assign_cols.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/assign_cols.m
+END
+logsum_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logsum_test.m
+END
+myismember.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myismember.m
+END
+marginalize_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/marginalize_table.m
+END
+mahal2conf.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mahal2conf.m
+END
+plot_axis_thru_origin.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plot_axis_thru_origin.m
+END
+hash_lookup.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/hash_lookup.m
+END
+assignEdgeNums.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/assignEdgeNums.m
+END
+argmin.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/argmin.m
+END
+draw_circle.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/draw_circle.m
+END
+mkdirKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mkdirKPM.m
+END
+polygon_area.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/polygon_area.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/README.txt
+END
+zipsave.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/zipsave.m
+END
+montageKPM2.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/montageKPM2.m
+END
+rgb2grayKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rgb2grayKPM.m
+END
+plotBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/plotBox.m
+END
+isemptycell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/isemptycell.m
+END
+subv2indKPM.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subv2indKPM.c
+END
+myrand.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myrand.m
+END
+bipartiteMatchingHungarian.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/bipartiteMatchingHungarian.m
+END
+ind2subv.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/ind2subv.m
+END
+junk.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/junk.c
+END
+em_converged.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/em_converged.m
+END
+isvectorBNT.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/isvectorBNT.m
+END
+montageKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/montageKPM.m
+END
+centeringMatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/centeringMatrix.m
+END
+partitionData.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/partitionData.m
+END
+subv2indKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subv2indKPM.m
+END
+safeStr.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/safeStr.m
+END
+compute_counts.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/compute_counts.m
+END
+logsumexpv.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logsumexpv.m
+END
+wrap.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/wrap.m
+END
+cross_entropy.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/cross_entropy.m
+END
+fullfileKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/fullfileKPM.m
+END
+myones.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/myones.m
+END
+rectintC.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/rectintC.m
+END
+isposdef.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/isposdef.m
+END
+subv2indMinka.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/subv2indMinka.m
+END
+mexutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mexutil.c
+END
+sampleUniformInts.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/sampleUniformInts.m
+END
+logsum_simple.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/logsum_simple.m
+END
+computeROC.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/computeROC.m
+END
+mexutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMtools/mexutil.h
+END

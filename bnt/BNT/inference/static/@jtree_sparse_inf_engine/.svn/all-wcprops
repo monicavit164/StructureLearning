@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine
+END
+jtree_sparse_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/jtree_sparse_inf_engine.m
+END
+enter_soft_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/enter_soft_evidence.m
+END
+init_pot.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/init_pot.c
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/marginal_family.m
+END
+cliques_from_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/cliques_from_engine.m
+END
+collect_evidence.c
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/collect_evidence.c
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/enter_evidence.m
+END
+clq_containing_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/clq_containing_nodes.m
+END
+set_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/set_fields.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/marginal_nodes.m
+END
+distribute_evidence.c
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_sparse_inf_engine/distribute_evidence.c
+END

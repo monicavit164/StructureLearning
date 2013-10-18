@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/enter_evidence.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/marginal_nodes.m
+END
+frontier_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/frontier_inf_engine.m
+END
+enter_soft_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/enter_soft_evidence.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/marginal_family.m
+END
+set_fwdback.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@frontier_inf_engine/set_fwdback.m
+END

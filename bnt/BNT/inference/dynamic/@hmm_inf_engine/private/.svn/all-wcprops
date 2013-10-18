@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/private
+END
+mk_hmm_obs_lik_vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/private/mk_hmm_obs_lik_vec.m
+END
+mk_hmm_obs_lik_matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@hmm_inf_engine/private/mk_hmm_obs_lik_matrix.m
+END

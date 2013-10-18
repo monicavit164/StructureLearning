@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine
+END
+dbn_update_bel.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/dbn_update_bel.m
+END
+dbn_init_bel.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/dbn_init_bel.m
+END
+dbn_update_bel1.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/dbn_update_bel1.m
+END
+bk_ff_hmm_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/bk_ff_hmm_inf_engine.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/marginal_family.m
+END
+dbn_predict_bel.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/dbn_predict_bel.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/enter_evidence.m
+END
+dbn_marginal_from_bel.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/dbn_marginal_from_bel.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@bk_ff_hmm_inf_engine/marginal_nodes.m
+END

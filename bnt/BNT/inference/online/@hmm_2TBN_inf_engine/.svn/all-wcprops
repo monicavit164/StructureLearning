@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/marginal_family.m
+END
+back.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/back.m
+END
+fwd.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/fwd.m
+END
+fwd1.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/fwd1.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/marginal_nodes.m
+END
+backT.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/backT.m
+END
+hmm_2TBN_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/hmm_2TBN_inf_engine.m
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@hmm_2TBN_inf_engine/update_engine.m
+END

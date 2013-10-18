@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials
+END
+check_for_cd_arcs.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/check_for_cd_arcs.m
+END
+genops.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/genops.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/README
+END
+mk_initial_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/mk_initial_pot.m
+END
+CPD_to_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/CPD_to_pot.m
+END
+determine_pot_type.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/determine_pot_type.m
+END

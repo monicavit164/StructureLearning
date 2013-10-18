@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot
+END
+extension_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/extension_pot.m
+END
+pot_to_marginal.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/pot_to_marginal.m
+END
+scgpot.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/scgpot.m
+END
+combine_pots.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/combine_pots.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/README
+END
+normalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/normalize_pot.m
+END
+marginalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/marginalize_pot.m
+END
+complement_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/complement_pot.m
+END
+recursive_combine_pots.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/recursive_combine_pots.m
+END
+reduce_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/reduce_pot.m
+END
+direct_combine_pots.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@scgpot/direct_combine_pots.m
+END

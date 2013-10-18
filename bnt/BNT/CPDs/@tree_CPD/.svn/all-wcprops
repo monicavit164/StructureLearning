@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD
+END
+learn_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/learn_params.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/display.m
+END
+tree_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/tree_CPD.m
+END
+evaluate_tree_performance.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/evaluate_tree_performance.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/readme.txt
+END
+set_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/set_fields.m
+END
+get_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tree_CPD/get_field.m
+END

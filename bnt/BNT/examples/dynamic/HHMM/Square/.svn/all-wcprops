@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square
+END
+learn_square_hhmm_cts.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/learn_square_hhmm_cts.m
+END
+sample_square_hhmm_cts.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/sample_square_hhmm_cts.m
+END
+test_square_fig.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/test_square_fig.m
+END
+hhmm_inference.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/hhmm_inference.m
+END
+is_F2_true_D3.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/is_F2_true_D3.m
+END
+plot_square_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/plot_square_hhmm.m
+END
+square4_cases.mat
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/square4_cases.mat
+END
+get_square_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/get_square_data.m
+END
+square4.mat
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/square4.mat
+END
+test_square_fig.mat
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/test_square_fig.mat
+END
+learn_square_hhmm_discrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/learn_square_hhmm_discrete.m
+END
+sample_square_hhmm_discrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/sample_square_hhmm_discrete.m
+END
+mk_square_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Square/mk_square_hhmm.m
+END

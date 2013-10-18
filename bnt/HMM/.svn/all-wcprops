@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM
+END
+mhmmParzen_train_observed.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mhmmParzen_train_observed.m
+END
+fixed_lag_smoother_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/fixed_lag_smoother_demo.m
+END
+dhmm_em.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_em.m
+END
+dhmm_logprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_logprob.m
+END
+dhmm_em_online.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_em_online.m
+END
+gausshmm_train_observed.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/gausshmm_train_observed.m
+END
+dhmm_em_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_em_demo.m
+END
+dhmm_sample_endstate.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_sample_endstate.m
+END
+dhmm_em_online_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_em_online_demo.m
+END
+mhmm_em.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mhmm_em.m
+END
+transmat_train_observed.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/transmat_train_observed.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/README.txt
+END
+pomdp_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/pomdp_sample.m
+END
+viterbi_path.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/viterbi_path.m
+END
+mdp_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mdp_sample.m
+END
+testHMM.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/testHMM.m
+END
+mhmm_logprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mhmm_logprob.m
+END
+mhmm_em_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mhmm_em_demo.m
+END
+dhmm_logprob_path.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_logprob_path.m
+END
+dhmm_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_sample.m
+END
+mc_sample_endstate.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mc_sample_endstate.m
+END
+dhmm_logprob_brute_force.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/dhmm_logprob_brute_force.m
+END
+mk_leftright_transmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mk_leftright_transmat.m
+END
+mk_rightleft_transmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mk_rightleft_transmat.m
+END
+mhmm_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mhmm_sample.m
+END
+mc_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/mc_sample.m
+END
+fwdback.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/fwdback.m
+END
+fixed_lag_smoother.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/HMM/fixed_lag_smoother.m
+END

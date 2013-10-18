@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD
+END
+tabular_CPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/tabular_CPD.m
+END
+set_fields.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/set_fields.m
+END
+log_nextcase_prob_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/log_nextcase_prob_node.m
+END
+get_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/get_field.m
+END
+learn_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/learn_params.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/display.m
+END
+update_ess_simple.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/update_ess_simple.m
+END
+maximize_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/maximize_params.m
+END
+bayes_update_params.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/bayes_update_params.m
+END
+log_prior.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/log_prior.m
+END
+reset_ess.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/reset_ess.m
+END
+update_ess.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/update_ess.m
+END
+CPD_to_CPT.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/CPD_to_CPT.m
+END
+log_marg_prob_node.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/CPDs/@tabular_CPD/log_marg_prob_node.m
+END

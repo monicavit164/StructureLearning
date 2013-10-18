@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine/update_engine.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine/marginal_family.m
+END
+pearl_unrolled_dbn_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine/pearl_unrolled_dbn_inf_engine.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine/enter_evidence.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_unrolled_dbn_inf_engine/marginal_nodes.m
+END

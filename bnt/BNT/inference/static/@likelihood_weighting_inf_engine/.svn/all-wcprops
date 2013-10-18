@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@likelihood_weighting_inf_engine
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@likelihood_weighting_inf_engine/enter_evidence.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@likelihood_weighting_inf_engine/marginal_nodes.m
+END
+likelihood_weighting_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@likelihood_weighting_inf_engine/likelihood_weighting_inf_engine.m
+END

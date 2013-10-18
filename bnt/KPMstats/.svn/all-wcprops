@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats
+END
+marginalize_gaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/marginalize_gaussian.m
+END
+gaussian_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/gaussian_prob.m
+END
+student_t_logprob.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/student_t_logprob.m
+END
+multirnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/multirnd.m
+END
+parzen.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/parzen.m
+END
+mixgauss_classifier_train.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_classifier_train.m
+END
+matrix_normal_pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/matrix_normal_pdf.m
+END
+dirichlet_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/dirichlet_sample.m
+END
+standardize.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/standardize.m
+END
+KLgauss.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/KLgauss.m
+END
+partial_corr_coef.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/partial_corr_coef.m
+END
+clg_Mstep.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/clg_Mstep.m
+END
+eigdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/eigdec.m
+END
+mixgauss_em.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_em.m
+END
+parzenC.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/parzenC.dll
+END
+logistK_eval.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logistK_eval.m
+END
+logist2FitRegularized.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logist2FitRegularized.m
+END
+dirichletpdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/dirichletpdf.m
+END
+weightedRegression.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/weightedRegression.m
+END
+pca.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/pca.m
+END
+est_transmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/est_transmat.m
+END
+mixgauss_Mstep.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_Mstep.m
+END
+convertBinaryLabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/convertBinaryLabels.m
+END
+linear_regression.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/linear_regression.m
+END
+chisquared_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/chisquared_prob.m
+END
+logistK.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logistK.m
+END
+matrix_T_pdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/matrix_T_pdf.m
+END
+rndcheck.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/rndcheck.m
+END
+multipdf.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/multipdf.m
+END
+logist2ApplyRegularized.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logist2ApplyRegularized.m
+END
+clg_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/clg_prob.m
+END
+cond_indep_fisher_z.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cond_indep_fisher_z.m
+END
+cwr_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_readme.txt
+END
+distchck.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/distchck.m
+END
+condGaussToJoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/condGaussToJoint.m
+END
+chisquared_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/chisquared_table.m
+END
+fit_partitioned_model.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/fit_partitioned_model.m
+END
+cwr_predict.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_predict.m
+END
+mc_stat_distrib.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mc_stat_distrib.m
+END
+sample_gaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/sample_gaussian.m
+END
+beta_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/beta_sample.m
+END
+cwr_em.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_em.m
+END
+test_dir.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/test_dir.m
+END
+condgaussTrainObserved.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/condgaussTrainObserved.m
+END
+mkPolyFvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mkPolyFvec.m
+END
+mixgauss_prob_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_prob_test.m
+END
+sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/sample.m
+END
+mixgauss_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_init.m
+END
+logist2.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logist2.m
+END
+gamma_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/gamma_sample.m
+END
+normal_coef.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/normal_coef.m
+END
+logist2Fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logist2Fit.m
+END
+logist2Apply.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/logist2Apply.m
+END
+multinomial_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/multinomial_sample.m
+END
+chisquared_histo.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/chisquared_histo.m
+END
+cwr_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_demo.m
+END
+mk_unit_norm.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mk_unit_norm.m
+END
+mixgauss_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_sample.m
+END
+parzenC_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/parzenC_test.m
+END
+fit_paritioned_model_testfn.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/fit_paritioned_model_testfn.m
+END
+sample_discrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/sample_discrete.m
+END
+mixgauss_classifier_apply.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_classifier_apply.m
+END
+gaussian_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/gaussian_sample.m
+END
+dirichletrnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/dirichletrnd.m
+END
+unidrndKPM.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/unidrndKPM.m
+END
+multinomial_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/multinomial_prob.m
+END
+histCmpChi2.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/histCmpChi2.m
+END
+cwr_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_prob.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/README.txt
+END
+parzen_fit_select_unif.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/parzen_fit_select_unif.m
+END
+mixgauss_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/mixgauss_prob.m
+END
+unif_discrete_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/unif_discrete_sample.m
+END
+clg_Mstep_simple.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/clg_Mstep_simple.m
+END
+condgauss_sample.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/condgauss_sample.m
+END
+parzenC.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/parzenC.c
+END
+chisquared_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/chisquared_readme.txt
+END
+cwr_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/cwr_test.m
+END
+student_t_prob.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/KPMstats/student_t_prob.m
+END

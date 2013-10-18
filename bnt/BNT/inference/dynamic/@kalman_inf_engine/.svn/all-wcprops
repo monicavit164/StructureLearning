@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@kalman_inf_engine
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@kalman_inf_engine/update_engine.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@kalman_inf_engine/enter_evidence.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@kalman_inf_engine/marginal_nodes.m
+END
+kalman_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@kalman_inf_engine/kalman_inf_engine.m
+END

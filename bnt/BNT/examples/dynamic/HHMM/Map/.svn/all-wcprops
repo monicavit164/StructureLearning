@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map
+END
+mk_rnd_map_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map/mk_rnd_map_hhmm.m
+END
+sample_from_map.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map/sample_from_map.m
+END
+disp_map_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map/disp_map_hhmm.m
+END
+mk_map_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map/mk_map_hhmm.m
+END
+learn_map.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/Map/learn_map.m
+END

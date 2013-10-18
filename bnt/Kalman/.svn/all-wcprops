@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/README.txt
+END
+learn_AR_diagonal.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/learn_AR_diagonal.m
+END
+learn_AR.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/learn_AR.m
+END
+sample_lds.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/sample_lds.m
+END
+kalman_smoother.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/kalman_smoother.m
+END
+ensure_AR.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/ensure_AR.m
+END
+learn_kalman.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/learn_kalman.m
+END
+kalman_forward_backward.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/kalman_forward_backward.m
+END
+eval_AR_perf.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/eval_AR_perf.m
+END
+learning_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/learning_demo.m
+END
+testKalman.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/testKalman.m
+END
+kalman_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/kalman_update.m
+END
+tracking_demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/tracking_demo.m
+END
+kalman_filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/kalman_filter.m
+END
+convert_to_lagged_form.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/convert_to_lagged_form.m
+END
+SS_to_AR.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/SS_to_AR.m
+END
+AR_to_SS.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/AR_to_SS.m
+END
+smooth_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/Kalman/smooth_update.m
+END

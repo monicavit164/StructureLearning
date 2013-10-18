@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables
+END
+mult_by_sparse_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_sparse_table.c
+END
+extend_domain_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/extend_domain_table.m
+END
+marg_tableC.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/marg_tableC.c
+END
+divide_by_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/divide_by_table.c
+END
+marg_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/marg_table.m
+END
+mult_by_tableM.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_tableM.m
+END
+marg_sparse_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/marg_sparse_table.c
+END
+repmat_and_mult.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/repmat_and_mult.c
+END
+mult_by_table_global.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_table_global.m
+END
+mult_by_table2.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_table2.m
+END
+divide_by_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/divide_by_table.m
+END
+mult_by_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_table.c
+END
+divide_by_sparse_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/divide_by_sparse_table.c
+END
+marg_tableM.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/marg_tableM.m
+END
+mult_by_tableC.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_tableC.c
+END
+rep_mult.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/rep_mult.c
+END
+mult_by_table.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/mult_by_table.m
+END
+marg_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/Tables/marg_table.c
+END

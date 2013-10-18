@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM
+END
+mk_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/mk_hhmm.m
+END
+mk_hhmm_topo.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/mk_hhmm_topo.m
+END
+abcd_hhmm.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/abcd_hhmm.m
+END
+hhmm_jtree_clqs.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/hhmm_jtree_clqs.m
+END
+pretty_print_hhmm_parse.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/pretty_print_hhmm_parse.m
+END
+add_hhmm_end_state.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/add_hhmm_end_state.m
+END
+mk_hhmm_topo_F1.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/mk_hhmm_topo_F1.m
+END
+remove_hhmm_end_state.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/examples/dynamic/HHMM/remove_hhmm_end_state.m
+END

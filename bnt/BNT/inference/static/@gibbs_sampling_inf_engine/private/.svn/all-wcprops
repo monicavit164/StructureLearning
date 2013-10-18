@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private
+END
+get_slice_dbn.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/get_slice_dbn.m
+END
+compute_children.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_children.m
+END
+compute_families.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_families.m
+END
+compute_posterior_dbn.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_posterior_dbn.m
+END
+CPT.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/CPT.m
+END
+get_slice_dbn.c
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/get_slice_dbn.c
+END
+compute_families_dbn.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_families_dbn.m
+END
+compute_posterior.c
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_posterior.c
+END
+get_cpts.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/get_cpts.m
+END
+my_sample_discrete.m
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/my_sample_discrete.m
+END
+compute_strides.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/compute_strides.m
+END
+sample_single_discrete.c
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@gibbs_sampling_inf_engine/private/sample_single_discrete.c
+END

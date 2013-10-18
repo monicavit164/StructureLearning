@@ -1,0 +1,116 @@
+10
+
+dir
+4857
+https://svn.csail.mit.edu/EVO-DesignOpt/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static
+https://svn.csail.mit.edu/EVO-DesignOpt
+
+
+
+2012-10-31T13:37:16.512285Z
+4667
+monica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1c8dfed8-759b-4067-ba00-42b74a266df5
+
+@var_elim_inf_engine
+dir
+
+@stab_cond_gauss_inf_engine
+dir
+
+@belprop_inf_engine
+dir
+
+@global_joint_inf_engine
+dir
+
+@pearl_inf_engine
+dir
+
+@quickscore_inf_engine
+dir
+
+@jtree_inf_engine
+dir
+
+@gaussian_inf_engine
+dir
+
+CVS
+dir
+
+dummy
+file
+
+
+
+
+2012-11-13T22:50:00.075645Z
+d41d8cd98f00b204e9800998ecf8427e
+2012-10-31T13:37:16.512285Z
+4667
+monica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+@belprop_fg_inf_engine
+dir
+
+@gibbs_sampling_inf_engine
+dir
+
+@enumerative_inf_engine
+dir
+
+@cond_gauss_inf_engine
+dir
+
+@jtree_sparse_inf_engine
+dir
+
+@jtree_limid_inf_engine
+dir
+
+@likelihood_weighting_inf_engine
+dir
+
+@belprop_mrf2_inf_engine
+dir
+
+@jtree_mnet_inf_engine
+dir
+

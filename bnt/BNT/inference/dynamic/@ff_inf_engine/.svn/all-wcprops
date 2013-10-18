@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/marginal_nodes.m
+END
+filter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/filter_evidence.m
+END
+enter_soft_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/enter_soft_evidence.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/marginal_family.m
+END
+smooth_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/smooth_evidence.m
+END
+ff_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/ff_inf_engine.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@ff_inf_engine/enter_evidence.m
+END

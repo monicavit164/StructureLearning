@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/enter_evidence.m
+END
+push.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/push.m
+END
+stab_cond_gauss_inf_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/stab_cond_gauss_inf_engine.m
+END
+clq_containing_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/clq_containing_nodes.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/README
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/marginal_nodes.m
+END
+marginal_singleclq_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/marginal_singleclq_nodes.m
+END
+marginal_difclq_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/marginal_difclq_nodes.m
+END
+problems.txt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/problems.txt
+END
+push_pot_toclique.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@stab_cond_gauss_inf_engine/push_pot_toclique.m
+END

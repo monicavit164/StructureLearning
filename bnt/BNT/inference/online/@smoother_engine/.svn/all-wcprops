@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/enter_evidence.m
+END
+bnet_from_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/bnet_from_engine.m
+END
+find_mpe.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/find_mpe.m
+END
+marginal_nodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/marginal_nodes.m
+END
+smoother_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/smoother_engine.m
+END
+update_engine.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/update_engine.m
+END
+marginal_family.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/online/@smoother_engine/marginal_family.m
+END

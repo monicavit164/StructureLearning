@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old
+END
+smooth_evidence_fast.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/smooth_evidence_fast.m
+END
+correct_smooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/correct_smooth.m
+END
+filter_evidence_obj_oriented.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/filter_evidence_obj_oriented.m
+END
+smooth_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/smooth_evidence.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/enter_evidence.m
+END
+wrong_smooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/wrong_smooth.m
+END
+filter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/dynamic/@pearl_dbn_inf_engine/Old/filter_evidence.m
+END

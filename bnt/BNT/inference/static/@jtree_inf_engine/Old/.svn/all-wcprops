@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_inf_engine/Old
+END
+collect_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_inf_engine/Old/collect_evidence.m
+END
+enter_soft_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_inf_engine/Old/enter_soft_evidence.m
+END
+enter_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_inf_engine/Old/enter_evidence.m
+END
+distribute_evidence.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/inference/static/@jtree_inf_engine/Old/distribute_evidence.m
+END

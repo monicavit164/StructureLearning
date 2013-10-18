@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cgpot/Old
+END
+normalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cgpot/Old/normalize_pot.m
+END
+set_domain_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cgpot/Old/set_domain_pot.m
+END
+simple_marginalize_pot.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/EVO-DesignOpt/!svn/ver/4667/Probability/EVOLearningStructureBranch/MatlabLearning/bnt/BNT/potentials/@cgpot/Old/simple_marginalize_pot.m
+END
